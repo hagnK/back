@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: w25w11-mongodb-backend
+  data:
+    mongodb:
+      uri: mongodb+srv://9gusrb:hangk@cluster0.vibxxem.mongodb.net/music_db?appName=Cluster0
